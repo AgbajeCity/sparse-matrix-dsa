@@ -1,0 +1,3 @@
+*.o
+sparse_matrix
+result.txt
